@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.out
+*.log
+*.swp
+*.bak
+*.tmp
+cmake-build-debug/
