@@ -10,6 +10,7 @@ typedef struct Node{
     struct Node* next;
 } Node;
 
+
 // global vars
 Node wordList = {NULL, NULL};
 
